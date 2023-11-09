@@ -1,6 +1,6 @@
 # Password Manager - CyberSecure
 
-![image](https://github.com/mr-ravin/PasswordManager-Android-App/blob/main/PasswordManager.png?raw=true)
+![image](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App/blob/main/PasswordManager.png?raw=true)
 
 This application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
 
