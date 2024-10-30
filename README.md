@@ -2,6 +2,12 @@
 
 This opensource android application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
 
+|Target OS Details|Number|
+|-----------------|------|
+| Android OS Version| 13 |
+| Android Target SDK| 33 |
+| API Levels        | 21+ |
+
 ![image](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App/blob/main/PasswordManager.png?raw=true)
 
 1. It uses multi-layer encryption to make sure data is protected.
