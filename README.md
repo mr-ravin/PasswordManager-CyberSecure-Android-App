@@ -2,6 +2,8 @@
 
 This opensource android application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
 
+App Development Framework Used : `React Native`
+
 |Target OS Details|Number|
 |-----------------|------|
 | Android OS Version| 13 |
