@@ -25,10 +25,11 @@ App Development Framework Used : `React Native`
 
 #### Working Demonstration:
 
-[![Working Demonstration](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App//blob/master/PasswordManager.gif)](https://www.youtube.com/watch?v=lTbhFhLS80)
+[![Working Demonstration](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App/blob/main/PasswordManager.gif)](https://www.youtube.com/watch?v=lTbhFhLS80)
 
 Demo video on Youtube: [click here](https://www.youtube.com/watch?v=_lTbhFhLS80)
 
+#### Installation:
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.passwordmanager)
 
